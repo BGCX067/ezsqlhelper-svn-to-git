@@ -1,0 +1,13 @@
+#summary ezsqlhelper简介.
+
+= ezsqlhelper 简介=
+
+ezsqlhelper主要用来辅助生成表单以及常用的增删改查代码
+
+
+= 主要功能 =
+
+暂时还没有想好:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
